@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 
 # TODO: Just use community Python 3.6 image per conversation with Atin.
 
